@@ -126,7 +126,7 @@ You lose when:
 - Vite  
 - Tailwind CSS v4  
 - Recharts for visualization  
-- Lucide for icons  
+- Lucide for icons
 
 ---
 
